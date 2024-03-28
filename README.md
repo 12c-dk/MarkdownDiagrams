@@ -1,10 +1,5 @@
 # Sample diagrams using mermaid and draw.io.
 
-Todo: 
-- GitHub repo view test
-- Reference documentation
-- Move repo to GitHub
-
 Do you want to easily create development documentation using screenshots and diagrams? 
 
 This repository contains an introduction to great tools for adding diagrams and screenshots to markdown files. This makes an easy way to update documentation inside visual studio code. 
